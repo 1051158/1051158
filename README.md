@@ -4,7 +4,6 @@ I'm a 22-year-old computer science engineer student from The Netherlands, curren
 
 ## 🖥️ My Tech Stack
 - **Languages:** Python, Java, JavaScript, C++, C
-- **Tools:** Git, Docker, Kubernetes, etc (add or remove tools as per your experience)
 - **Databases:** SQL, MongoDB
 - **Frameworks:** NextJS, Django, Flask
 
