@@ -3,7 +3,7 @@
 I'm a 22-year-old computer science engineer student from The Netherlands, currently in my second year. 
 
 ## 🖥️ My Tech Stack
-- **Languages:** Python, Java, JavaScript, C++, C
+- **Languages:** Python, Java, JavaScript, C++, C, TypeScript
 - **Databases:** SQL, MongoDB
 - **Frameworks:** NextJS, Django, Flask
 
