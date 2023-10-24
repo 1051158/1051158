@@ -20,6 +20,7 @@ I'm a 22-year-old computer science engineer student from The Netherlands, curren
 
 - LinkedIn: [Alen Iriškić](https://nl.linkedin.com/in/alen-iriskic)
 - Email: alen.iriskic@gmail.com
+- Personal GitHub: [Me](https://github.com/cozyflexing)
 
 ---
 
